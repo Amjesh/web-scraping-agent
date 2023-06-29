@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+authlib
+requests
+langchain
+openai
+load-dotenv
+beautifulsoup4
+validators
